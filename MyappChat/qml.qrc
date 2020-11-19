@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>Nickname.qml</file>
-    </qresource>
-</RCC>
