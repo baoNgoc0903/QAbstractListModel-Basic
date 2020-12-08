@@ -1,1 +1,4 @@
 this is edit.txt
+edit lan 1
+edit lan 2
+edit lan 3
